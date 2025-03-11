@@ -1,10 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-## About Me
-
 I’m a third year undergraduate student at Beijing University of Posts and Telecommunications (BUPT), engaged in a joint program with [Queen Mary University of London](https://www.qmul.ac.uk/).
 
 ---
