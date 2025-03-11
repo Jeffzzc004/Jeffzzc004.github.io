@@ -41,14 +41,14 @@ AI for math
 
 ### Internship in Deeplearning, School of Artificial Intelligence - BUPT
 
-**Feb 2024 – Sep 2024**_Work for Chuang Zhu, Associate Professor, BUPT_
+**Feb 2024 – Sep 2024** _Work for Chuang Zhu, Professor, BUPT_
 
 - This lab belongs to the Artificial Intelligence School of BUPT. Under the guidance of my instructor, I have studied the basic knowledge of deep learning and read multiple papers on object detection in the field of autonomous driving. I have also learned the basics of using PyTorch.
 
 ### Internship in LIN’s Lab, Westlake University
 
 **Sep 2024 – Jan 2026**
-_Work for Tao LIN, Assistant Professor, Westlake University_
+_Work for Tao LIN, Professor, Westlake University_
 
 - This lab belongs to the Engineering School of Westlake University. Under the guidance of my instructor, I studied Diffusion Models and successfully replicated multiple papers (DDPM Rectified Flow) and learned the basic content of generative models.
 
