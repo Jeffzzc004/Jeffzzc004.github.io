@@ -61,7 +61,3 @@ _Work for Tao LIN, Assistant Professor, Westlake University_
 _Work for Cheng Yang, Professor, BUPT_
 
 - Intern working under Prof. Cheng Yang, contributing to a paper for NeruIPS 2026 and maintaining projects.
-
----
-
----
