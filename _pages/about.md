@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 ## About Me
 
 I’m a third year undergraduate student at Beijing University of Posts and Telecommunications (BUPT), engaged in a joint program with [Queen Mary University of London](https://www.qmul.ac.uk/).
@@ -36,7 +41,6 @@ AI for math
 - National Scholarship 2024
 - Second-Class Scholarship in BUPT 2023
 - First Prize in National College Student Mathematics Competition 2023
-- 
 
 ---
 
@@ -60,4 +64,4 @@ _Work for Tao LIN, Assistant Professor, Westlake University_
 **Mar 2026 – Now**
 _Work for Cheng Yang, Professor, BUPT_
 
-- Intern working under Prof. Cheng Yang, contributing to a paper for NeruIPS 2026 and maintaining projects.
+- Intern working under Prof. Cheng Yang, contributing to a paper for NeruIPS 2026 and maintaining projects.---
