@@ -8,9 +8,7 @@ redirect_from:
 ---
 I’m a third year undergraduate student at Beijing University of Posts and Telecommunications (BUPT), engaged in a joint program with [Queen Mary University of London](https://www.qmul.ac.uk/).
 
----
-
-## Research Interests
+# Research Interests
 
 LLM-based Multi-Agent System (MAS)
 
@@ -18,34 +16,28 @@ AIGC
 
 AI for math
 
----
+# Education
 
-## Education
+**Beijing University of Post and Telecommunications**
+*B.E. in Internet of Things*   **2022.9 – 2026.6**
 
-- **Beijing University of Post and Telecommunications & Queen Mary University of London Joint Program**
-  - Bachelor in Internet of Things (2022.09 - 2026.06)
-  - Weighted Average Mark: 91.10/100 (Rank: 6/181)
+- Weighted Average Mark: 91.1/100
+- Rank: 6/181
 
----
-
-## Projects
+# Projects
 
 ### Smart Home System
 
 - This is a complete smart home system. The main function is to simulate intelligent control of hardware devices in a house. Its primary capabilities include remotely reading temperature and humidity data from a house model, controlling the lights on and off, and remotely managing other hardware equipment.
 - **Tools Used**: Python, MySQL, Flask, JavaScript, HTML
 
----
-
-## Honors and Awards
+# Honors and Awards
 
 - National Scholarship 2024
 - Second-Class Scholarship in BUPT 2023
 - First Prize in National College Student Mathematics Competition 2023
 
----
-
-## Experience
+# Experience
 
 ### Internship in Deeplearning, School of Artificial Intelligence - BUPT
 
@@ -65,4 +57,4 @@ _Work for Tao LIN, Assistant Professor, Westlake University_
 **Mar 2026 – Now**
 _Work for Cheng Yang, Professor, BUPT_
 
-- Intern working under Prof. Cheng Yang, contributing to a paper for NeruIPS 2026 and maintaining projects.---
+- Intern working under Prof. Cheng Yang, contributing to a paper for NeruIPS 2026 and maintaining projects.
