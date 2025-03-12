@@ -39,7 +39,7 @@ AI for math
 
 # Experience
 
-### Internship in Deeplearning, School of Artificial Intelligence - BUPT
+### Internship in School of Artificial Intelligence, BUPT
 
 **Feb 2024 – Sep 2024** _Work for Chuang Zhu, Professor, BUPT_
 
@@ -52,7 +52,7 @@ _Work for Tao LIN, Professor, Westlake University_
 
 - This lab belongs to the Engineering School of Westlake University. Under the guidance of my instructor, I studied Diffusion Models and successfully replicated multiple papers (DDPM Rectified Flow) and learned the basic content of generative models.
 
-### Internship in LIN’s Lab, Westlake University
+### Internship in School of Computer Science, BUPT
 
 **Mar 2026 – Now**
 _Work for Cheng Yang, Professor, BUPT_
