@@ -47,14 +47,14 @@ AI for math
 
 ### Internship in LIN’s Lab, Westlake University
 
-**Sep 2025 – Jan 2026**
+**Sep 2024 – Jan 2025**
 _Work for Tao LIN, Professor, Westlake University_
 
 - This lab belongs to the Engineering School of Westlake University. Under the guidance of my instructor, I studied Diffusion Models and successfully replicated multiple papers (DDPM Rectified Flow) and learned the basic content of generative models.
 
 ### Internship in School of Computer Science, BUPT
 
-**Mar 2026 – Now**
+**Mar 2025 – Now**
 _Work for Cheng Yang, Professor, BUPT_
 
 - Intern working under Prof. Cheng Yang, contributing to maintaining projects.
