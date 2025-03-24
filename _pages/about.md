@@ -14,8 +14,6 @@ LLM-based Multi-Agent System (MAS)
 
 AIGC
 
-AI for math
-
 # Education
 
 **Beijing University of Post and Telecommunications**
