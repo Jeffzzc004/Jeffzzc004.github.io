@@ -12,15 +12,15 @@ I’m a third year undergraduate student at Beijing University of Posts and Tele
 
 LLM-based Multi-Agent System (MAS)
 
-AIGC
+LLM inference acceleration
 
 # Education
 
 **Beijing University of Post and Telecommunications**
 *B.E. in Internet of Things*   **2022.9 – 2026.6**
 
-- Weighted Average Mark: 91.1/100
-- Rank: 6/181
+- Weighted Average Mark: 90.09/100
+- Rank: 6/179
 
 # Projects
 
