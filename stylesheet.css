@@ -68,14 +68,14 @@ p { margin-bottom: 13px; }
 .profile-links span { padding: 0 6px; color: #777; }
 .portrait-link {
   display: block;
-  width: 220px;
+  width: 250px;
   justify-self: end;
 }
 
 .portrait-link img {
   display: block;
-  width: 220px;
-  height: 220px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
   object-position: center;
   border-radius: 6px;
